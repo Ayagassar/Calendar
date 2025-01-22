@@ -29,7 +29,7 @@
 .date {
     border: 0.5px solid black;
     width: 10vh;
-    display: flex; /* Changed from -moz-popup to flex */
+    display: flex; 
     justify-content: center;
     align-items: center;
     flex-direction: column;
@@ -42,7 +42,7 @@ h1 {
 
 body {
     display: auto;
-    justify-content: center; /* Center the calendar section on the page */ /* Center the calendar section vertically */
+    justify-content: center; 
     height: 100vh;
     margin: 0;
 }
